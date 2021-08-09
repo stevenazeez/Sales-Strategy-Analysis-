@@ -1,4 +1,4 @@
-# Sales-Strategy-Analysis
+# Sales-Strategy-Analysis for an Online Retail SuperStore
 
 The objective of this is to develop useful insights that will assist sales department of the superstore in making core business initiatives in order to perfect their sales strategy approach. Our goal is to answer these following questions
 
